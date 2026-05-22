@@ -1,4 +1,9 @@
 La vida de Brian
 Pulp Fiction
 Monty Python and the Holy Grail
+<<<<<<< HEAD
 Interstellar
+=======
+
+El sentit de la vida
+>>>>>>> 7ecf100 (Nueva pelicula clone)
